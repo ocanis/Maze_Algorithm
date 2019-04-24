@@ -12,3 +12,5 @@ Maze Algo using :
                 Automaton coding 
                 
 coded for Pololu m3pi with mbed LPC1768
+
+get the version on MBED at <<https://os.mbed.com/users/ocanis/code/labyrinthe_zip_lpc1768_Ver_final/>>
