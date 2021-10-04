@@ -21,11 +21,11 @@ In a line maze contest:
 
 Maze Algo using :
 
-                * PID
+                * PID Controller
                 
-                * Right hand approuach
+                * Right hand approach
                 
-                * Automaton coding                 
+                * Coded Using Automaton approach                
 #### target : 
 * coded for Pololu m3pi with mbed LPC1768
 #### code on mbed
